@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="(https://blog.csdn.net/github_35856054?type=blog)">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);今天的你真棒!&center=true&size=27" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);李师长觉得今天的你真棒!&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
 
@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/Vincentlz/Vincentlz/assets/images/hi.gif" />
 
 <!-- START_SECTION:blog -->
-* <a href='https://blog.csdn.net/github_35856054?type=blog' target='_blank'>小孙同学 の 第二大脑正在施工中 。。。</a> - 2023-03-26
+* <a href='https://blog.csdn.net/github_35856054?type=blog' target='_blank'>李师长 の 第二大脑正在施工中 。。。</a> - 2023-03-26
 * <a href='https://blog.csdn.net/github_35856054?type=blog' target='_blank'>奔跑在自己的时区里，你好哇，我的22岁！</a> - 2023-02-25
 * <a href='https://blog.csdn.net/github_35856054?type=blog' target='_blank'>让面试官眼前一亮，手把手带你打造个性化的 GitHub 首页</a> - 2023-01-30
 * <a href='https://blog.csdn.net/github_35856054?type=blog' target='_blank'>快速上手，教你如何将 ChatGPT 接入到微信公众号</a> - 2023-01-29
