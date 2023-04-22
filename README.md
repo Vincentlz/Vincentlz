@@ -18,8 +18,8 @@ Here are some ideas to get you started:
   
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
-    <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小孙同学祝您今天愉快!&center=true&size=27" alt="Typing SVG" />
+    <a href="(https://blog.csdn.net/github_35856054?type=blog)">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);今天的你真棒!&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
 
@@ -28,13 +28,13 @@ Here are some ideas to get you started:
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
-    <a href="https://blog.sunguoqi.com/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
-    <a href="https://twitter.com/Vincentlz/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
-    <a href="https://www.youtube.com/channel/UC4nDk0V8I1c6m3CIo0F2LIQ"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
-    <a href="https://box.sunguoqi.com/weixin_mp"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
-    <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
-    <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
+    <a href="https://blog.csdn.net/github_35856054?type=blog"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
+    <a href="https://--"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
+    <a href="https://--"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
+    <a href="https://--"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
+    <a href="https://--"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="https://"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
+    <a href="https://"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
     <!-- visitor statistics logo 访客数统计徽标 -->
     <img src="https://visitor-badge.glitch.me/badge?page_id=Vincentlz" alt="访客统计" />
   </div>
@@ -54,8 +54,8 @@ Here are some ideas to get you started:
   
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/Vincentlz/Vincentlz/assets/images/hi.gif" />
 
-<p>&emsp;&emsp;大家好，我是小孙同学。</p>
-<p>&emsp;&emsp;目前就读于安徽理工大学地理信息科学专业。</p>
+<p>&emsp;&emsp;大家好，我是李师长。</p>
+<p>&emsp;&emsp;目前就读于家里蹲互联网科学专业。</p>
 <p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名资深程序员!</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
@@ -91,11 +91,11 @@ Here are some ideas to get you started:
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/Vincentlz/Vincentlz/assets/images/hi.gif" />
 
 <!-- START_SECTION:blog -->
-* <a href='https://blog.sunguoqi.com/archives/brain' target='_blank'>小孙同学 の 第二大脑正在施工中 。。。</a> - 2023-03-26
-* <a href='https://blog.sunguoqi.com/archives/20230225' target='_blank'>奔跑在自己的时区里，你好哇，我的22岁！</a> - 2023-02-25
-* <a href='https://blog.sunguoqi.com/archives/github_profile_0' target='_blank'>让面试官眼前一亮，手把手带你打造个性化的 GitHub 首页</a> - 2023-01-30
-* <a href='https://blog.sunguoqi.com/archives/chatgpt' target='_blank'>快速上手，教你如何将 ChatGPT 接入到微信公众号</a> - 2023-01-29
-* <a href='https://blog.sunguoqi.com/archives/wechat_mp' target='_blank'>请接受像“屎”一样的开始</a> - 2023-01-27
+* <a href='https://blog.csdn.net/github_35856054?type=blog' target='_blank'>小孙同学 の 第二大脑正在施工中 。。。</a> - 2023-03-26
+* <a href='https://blog.csdn.net/github_35856054?type=blog' target='_blank'>奔跑在自己的时区里，你好哇，我的22岁！</a> - 2023-02-25
+* <a href='https://blog.csdn.net/github_35856054?type=blog' target='_blank'>让面试官眼前一亮，手把手带你打造个性化的 GitHub 首页</a> - 2023-01-30
+* <a href='https://blog.csdn.net/github_35856054?type=blog' target='_blank'>快速上手，教你如何将 ChatGPT 接入到微信公众号</a> - 2023-01-29
+* <a href='https://blog.csdn.net/github_35856054?type=blog' target='_blank'>请接受像“屎”一样的开始</a> - 2023-01-27
 <!-- END_SECTION:blog -->
 
 </td></tr>
@@ -107,11 +107,11 @@ Here are some ideas to get you started:
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/Vincentlz/Vincentlz/assets/images/hi.gif" />
 
 <!-- START_SECTION:brain -->
-* <a href='https://brain.sunguoqi.com/pages/9de702/' target='_blank'>console.log("Hello World")</a> - 2023-04-09
-* <a href='https://brain.sunguoqi.com/pages/9207e1/' target='_blank'>前端发展简史</a> - 2023-04-09
-* <a href='https://brain.sunguoqi.com/pages/0ef920/' target='_blank'>前端学习路线</a> - 2023-04-02
-* <a href='https://brain.sunguoqi.com/pages/bc9176/' target='_blank'>todo</a> - 2023-04-22
-* <a href='https://brain.sunguoqi.com/pages/ee9f4d/' target='_blank'>todo</a> - 2023-04-22
+* <a href='https://blog.csdn.net/github_35856054?type=blog' target='_blank'>console.log("Hello World")</a> - 2023-04-09
+* <a href='https://blog.csdn.net/github_35856054?type=blog' target='_blank'>前端发展简史</a> - 2023-04-09
+* <a href='https://blog.csdn.net/github_35856054?type=blog' target='_blank'>前端学习路线</a> - 2023-04-02
+* <a href='https://blog.csdn.net/github_35856054?type=blog' target='_blank'>todo</a> - 2023-04-22
+* <a href='https://blog.csdn.net/github_35856054?type=blog' target='_blank'>todo</a> - 2023-04-22
 <!-- END_SECTION:brain -->
 
 </td></tr>
